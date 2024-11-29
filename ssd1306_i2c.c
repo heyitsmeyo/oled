@@ -356,11 +356,7 @@ restart :
     char *text[] = {
         " Eu disso : ",
         "Meu nome esta ",
-        " Tarek" ,
-        "vc Charliana?",
-        "  Ti",
-        "  Amo     ",
-        "  Muito",
+        " Tarek"
     };
 	 int y = 0;
     for (uint i = 0 ;i < count_of(text); i++) {
